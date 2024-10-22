@@ -1,3 +1,7 @@
+[KDT] DBMS에 대해 공부한 내용입니다.
+
+---
+
 ### DB (Database)
 - 데이터가 모여 있는 기지
 ### DBMS (Database Management System)
